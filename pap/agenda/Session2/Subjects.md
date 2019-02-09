@@ -1,3 +1,17 @@
+## Arrays:
+* Simple example with array (if needed)
+* Arrays initialization:
+    * Using for loop
+    * At declaration time
+    * `Arrays.fill`
+    * `Arrays.copyOf` & `Arrays.copyOfRange`
+    * `Arrays.setAll` (JDK 8)
+* Arrays class:
+    * `Arrays.equals`
+    * `Arrays.sort` (easy but not now!)
+    * ...
+
+
 ## Strings:
 * Useful methods:
     * `charAt`
@@ -10,6 +24,7 @@
     * `length`
     * `isEmpty` (a clean code technique) (🤓is null or empty)
     * `substring`
+    * `join` (iterable? arrays are iterable, other iterables will be found out soon)
     * `trim` (trimStart & trimEnd??)
     * `toUpperCase` & `toLowerCase`
     * `valueOf`
