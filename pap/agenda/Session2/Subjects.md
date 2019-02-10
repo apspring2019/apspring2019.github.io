@@ -30,9 +30,9 @@
     * `valueOf`
     * (🤓`getByte`)
 
-* Immutable (🤓Why? security and performance)
-* (🤓`intern`, a question about equality)
-* Regex ** (a good example)
+* Checking equality of strings
+* (🤓`intern`)
+* Regex
     * Grammar and Notations
     * `matches`
     * `replaceAll` & `replaceFirst`
@@ -41,3 +41,5 @@
     * `Pattern`
     * `Match`
     * Groups & Captures
+* Immutable (🤓Why? security and performance)
+    * Frequent manipulation? `StringBuilder` (& 🤓`StringBuffer`)
