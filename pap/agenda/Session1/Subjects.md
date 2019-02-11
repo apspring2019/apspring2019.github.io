@@ -8,13 +8,19 @@
     * ...
 * A word of motivation
 * JDK installation
+    * `JAVA_HOME` environment variable
 * Setup an environment (IntelliJ / VSCode)
 * Hello World!
     * printing: `println`, `printf`
     * scanning: `Scanner` and useful methods
+        * `hasNext...`
+        * `next...`
         * (How does it work? 🤔)
     * Math
         * Easy example
         * (🤓What are `floorDiv`, `addExact`? How to properly round numbers?)
         * (🤓Difference between `Math` and `StrictMath`)
     * Overloading functions
+
+## Example of the Session:
+Stack Machine
