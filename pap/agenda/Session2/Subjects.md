@@ -5,11 +5,20 @@
     * At declaration time
     * `Arrays.fill`
     * `Arrays.copyOf` & `Arrays.copyOfRange`
-    * `Arrays.setAll` (JDK 8)
+    * `Arrays.setAll` (JDK 8, in the future)
 * Arrays class:
     * `Arrays.equals`
     * `Arrays.sort` (easy but not now!)
     * ...
+* ArrayList
+    * `add`
+    * `get`
+    * `size`
+    * `isEmpty`
+    * `remove`
+    * `toArray`
+    * ...
+
 
 
 ## Strings:
