@@ -7,8 +7,11 @@
     * `Arrays.copyOf` & `Arrays.copyOfRange`
     * `Arrays.setAll` (JDK 8, in the future)
 * Arrays class:
+    * `Arrays.asList`
     * `Arrays.equals`
-    * `Arrays.sort` (easy but not now!)
+    * `Arrays.sort`
+    * `Arrays.toString`
+    * `Arrays.binarySearch`
     * ...
 * ArrayList
     * `add`
@@ -24,7 +27,7 @@
 ## Strings:
 * Useful methods:
     * `charAt`
-    * `concat` (plus operator)
+    * `concat` (difference between concat and plus operator)
     * `contains`
     * `startsWith` & `endsWith`
     * `equals` & `equalsIgnoreCase` **
@@ -37,8 +40,8 @@
     * `trim` (trimStart & trimEnd??)
     * `toUpperCase` & `toLowerCase`
     * `valueOf`
-    * (🤓`getByte`)
-
+    * (🤓`getBytes`)
+* `String.format`
 * Checking equality of strings
 * (🤓`intern`)
 * Regex

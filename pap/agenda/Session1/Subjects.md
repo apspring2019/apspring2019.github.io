@@ -23,4 +23,5 @@
     * Overloading functions
 
 ## Example of the Session:
-Stack Machine
+* Fibonacci tester
+* Stack Machine
