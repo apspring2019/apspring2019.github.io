@@ -16,12 +16,12 @@
         * `hasNext...`
         * `next...`
         * (How does it work? 🤔)
-    * Math
+    * ~~Math~~
         * Easy example
         * (🤓What are `floorDiv`, `addExact`? How to properly round numbers?)
         * (🤓Difference between `Math` and `StrictMath`)
-    * Overloading functions
+    * ~~Overloading functions~~
 
 ## Example of the Session:
 * Fibonacci tester
-* Stack Machine
+* ~~Stack Machine~~
