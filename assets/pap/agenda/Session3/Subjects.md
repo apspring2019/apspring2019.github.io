@@ -17,5 +17,5 @@
 ## Object Oriented Programming:
 * Reservation Service
 
-##Example of the session:
+## Example of the session:
 * Reservation Service
