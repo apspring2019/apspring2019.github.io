@@ -2,7 +2,7 @@ title: Advanced Programming Spring 2019
 description: All resources will be published here.
 
 # Jekyll settings
-permalink: /:title/          # see https://jekyllrb.com/docs/permalinks/
+permalink:  /:categories/:title/          # see https://jekyllrb.com/docs/permalinks/
 paginate: 2                  # number of articles per page, remove to disable pagination
 excerpt_separator: "\n\n\n"  # indicates the end of the excerpt by two blank lines
 
@@ -18,6 +18,7 @@ dark_theme: false            # enables dark mode
 
 navigation:                  # (optional) site navigation in the header
   - index.html
+  - pap
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
   envelope: "mailto:"
