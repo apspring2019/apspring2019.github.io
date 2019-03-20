@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /pap/agenda/
+permalink: /pap_agenda/
 title: PAP Agenda
 description: These subjects will be discussed in the class.
 categories: [pap]
@@ -15,11 +15,11 @@ tags: [pap, agenda]
 * ### [Session 4: Object-Oriented Programming - Intermediate](./Session4.md)
 
 <ul>
-    {%for subject_page in site.pages %}
-    {%if subject_page.dir == page.dir %}
+    {% for subject_page in site.pages %}
+    {% if subject_page.dir == page.dir %}
         <li>
             <a href="{{ subject_page.url }}">{{ subject_page.title }}</a>
         </li>
     {% endif %}
-    {% endfor%}
+    {% endfor %}
 </ul>
