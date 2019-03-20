@@ -23,9 +23,10 @@ navigation:                  # (optional) site navigation in the header
   - pap.md
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
-  envelope: "mailto:"
-  github: "https://github.com"
-
+  
+queras:
+  - Hatami: https://quera.ir/course/2770/
+  - MostafaZade: https://quera.ir/course/2838/
 plugins: 
  - jekyll-paginate
  - jekyll-default-layout
