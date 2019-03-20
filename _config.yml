@@ -1,4 +1,7 @@
 remote-theme: niklasbuschmann/contrast
 
+plugins:
+  - jekyll-remote-theme
+
 title: Advanced Programming Spring 2019
 description: All resources will be published here.
