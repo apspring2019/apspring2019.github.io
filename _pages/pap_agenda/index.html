@@ -1,0 +1,25 @@
+---
+layout: page
+permalink: /pap/agenda/
+title: PAP Agenda
+description: These subjects will be discussed in the class.
+categories: [pap]
+tags: [pap, agenda]
+---
+
+## Agenda:
+
+* ### [Session 1: Introduction](./Session1.md)
+* ### [Session 2: Arrays and Strings](./Session2.md)
+* ### [Session 3: Object-Oriented Programming - Beginner](./Session3.md)
+* ### [Session 4: Object-Oriented Programming - Intermediate](./Session4.md)
+
+<ul>
+    {%for subject_page in site.pages %}
+    {%if subject_page.dir == page.dir %}
+        <li>
+            <a href="{{ subject_page.url }}">{{ subject_page.title }}</a>
+        </li>
+    {% endif %}
+    {% endfor%}
+</ul>

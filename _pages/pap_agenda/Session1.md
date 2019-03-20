@@ -1,3 +1,8 @@
+---
+layout: pap_subjects
+title: Session 1 - Introduction
+---
+
 ## Introduction:
 * What will we cover in the class?
     * Practicing what is taught in the class
