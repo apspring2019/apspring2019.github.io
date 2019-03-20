@@ -18,8 +18,6 @@ dark_theme: false            # enables dark mode
 
 navigation:                  # (optional) site navigation in the header
   - index.md
-  - _pages/pap.md
-  - pap/index.html
   - pap.md
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
