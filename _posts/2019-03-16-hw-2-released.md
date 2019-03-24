@@ -11,4 +11,4 @@ Homework 2 focussed on object-oriented programming is released!
 * [MostafaZadeh Quera - HW2]({{site.data.hw_paths.hw2.mostafa}})
 * [Raw pdf]({{site.url | append: site.data.hw_paths.hw2.pdf}})
 
-Deadline: Farvardin 12th
+#### Deadline: Farvardin 12th

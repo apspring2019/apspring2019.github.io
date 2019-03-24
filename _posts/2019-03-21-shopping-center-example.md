@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shopping Center(OOP Example)
+title: Shopping Center (an OOP Example)
 categories: [pap,example]
 tags: [pap,example]
 ---
