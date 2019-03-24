@@ -25,6 +25,15 @@ icons:                       # (optional) icons in the header, see http://fontaw
 queras:
   Hatami: https://quera.ir/course/2770/
   MostafaZade: https://quera.ir/course/2838/
+
 plugins: 
  - jekyll-paginate
  - jekyll-default-layout
+
+#custom variables
+
+hw_paths:
+  - hw2:
+    - hatami: https://quera.ir/course/assignments/8026/problems
+    - mostafa: https://quera.ir/course/assignments/8609/problems
+    - pdf: /assets/homeworks/AP_HW2.pdf
