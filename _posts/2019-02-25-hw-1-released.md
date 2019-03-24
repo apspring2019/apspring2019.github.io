@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Homework 2 is released"
+title: "Homework 1 is released"
 categories: [hw,announcement]
 tags: [hw,release]
 ---
