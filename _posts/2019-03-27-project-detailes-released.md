@@ -1,9 +1,14 @@
 ---
 layout: post
-title: Project Details Released
+title: Project Details Are Released (Phase 1)
 categories: [project]
-tags: [project,announcement,release]
+tags: [project,announcement,release,phase1]
 ---
-Project details are released.
+Project phase 1 including project details is released.
 
-You can check the documentation [here]({{ site.url | append: "/assets/project/Project_Phase1.pdf" }}).
+Project is inspired by the game ["Duelyst"](https://duelyst.com/){:target="_blank"}.
+
+You can check the documentation [here]({{ site.url | append: "/assets/project/Project_Phase1.pdf" }}){:target="_blank"}.
+
+#### **Deadline:**
+- **Ordibehesht 9th**
